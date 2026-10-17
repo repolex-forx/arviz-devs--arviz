@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/arviz-devs/arviz/commit/7d8d55517b826c585ed0e1ddcb2ae4f4dc0b48c9",
       "git:hexsha": "7d8d55517b826c585ed0e1ddcb2ae4f4dc0b48c9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T04:27:41.179366+00:00"
     },
     {
       "@id": "https://repolex.ai/r/arviz-devs/arviz/commit/b26009c619f91190005c0a65e4aa1884e27bb464",
