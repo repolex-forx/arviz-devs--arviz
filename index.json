@@ -1,0 +1,11 @@
+{
+  "org": "arviz-devs",
+  "repo": "arviz",
+  "versions": [
+    {
+      "commit": "7d8d55517b826c585ed0e1ddcb2ae4f4dc0b48c9",
+      "tag": "",
+      "parsed_at": "2026-10-17T04:27:41.180047+00:00"
+    }
+  ]
+}
